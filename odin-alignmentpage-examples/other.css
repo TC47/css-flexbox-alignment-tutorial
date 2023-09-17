@@ -1,0 +1,11 @@
+/* === non-tutorial related style rules ====*/
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link {
+    display: flex;
+   
+
+}
